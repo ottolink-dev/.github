@@ -7,3 +7,16 @@ The organization develops the core libraries, tools, and supporting technologies
 * **Supporting tools & libraries** - components used to build and extend the Hesiod ecosystem
 
 **Issues** across the organization are tracked in a [central GitHub Project](https://github.com/orgs/ottolink-dev/projects/1).
+
+```mermaid
+flowchart LR
+    Hesiod --> GNode
+    Hesiod --> GNodeGUI
+    Hesiod --> HighMap
+    Hesiod --> Meta
+    Hesiod --> QTerrainRenderer
+    Hesiod --> QTextureDownloader
+
+    HighMap --> CLWrapper
+    HighMap --> PointSampler
+```
