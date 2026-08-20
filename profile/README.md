@@ -6,6 +6,4 @@ The organization develops the core libraries, tools, and supporting technologies
 * **HighMap** - terrain processing and simulation library
 * **Supporting tools & libraries** - components used to build and extend the Hesiod ecosystem
 
-**Development**
-
-Issues across the organization are tracked in a [central GitHub Project](https://github.com/orgs/ottolink-dev/projects/1).
+**Issues** across the organization are tracked in a [central GitHub Project](https://github.com/orgs/ottolink-dev/projects/1).
